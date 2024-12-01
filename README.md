@@ -9,6 +9,7 @@ Cost Optimization: Recommends off-peak charging to minimize energy costs for use
 Grid Load Balancing: Predicts energy demand and balances it across different locations to prevent grid congestion.
 
 Tech Stack
+
 Frontend: React.js
 Backend: Python (Flask for API)
 Machine Learning:
