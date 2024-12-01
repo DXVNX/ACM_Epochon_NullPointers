@@ -66,7 +66,9 @@ The backend is built using *Flask* for serving the machine learning models, whil
 
 ### Credits
 -**Kaggle** for datasets.
+
 -**ChatGPT** for assistance with code, project structure, and documentation.
+
 -Acknowledged other tools such as **TensorFlow**, **Flask** and **React.js**.
 
 
