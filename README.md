@@ -9,8 +9,6 @@ Renewable Energy Integration: Prioritizes charging when renewable energy is abun
 Cost Optimization: Recommends off-peak charging to minimize energy costs for users.
 Grid Load Balancing: Predicts energy demand and balances it across different locations to prevent grid congestion.
 
-Tech Stack
-
 Frontend: React.js
 
 Backend: Python (Flask for API)
