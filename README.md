@@ -69,7 +69,7 @@ The backend is built using *Flask* for serving the machine learning models, whil
 
 -**ChatGPT** for assistance with code, project structure, and documentation.
 
--Acknowledged other tools such as **TensorFlow**, **Flask** and **React.js**.
+-Acknowledged other tools such as **Scikit-learn**, **Flask** and **React.js**.
 
 
 
