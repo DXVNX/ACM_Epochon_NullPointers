@@ -24,6 +24,8 @@ Database: NoSQL (MongoDB or Firebase for storing user data and charging history)
 
 APIs: RESTful API built with Flask to handle real-time data exchange between frontend and machine learning models.
 
+
+
 Models
 
 Model 1: Energy Supply Optimization
