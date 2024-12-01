@@ -64,7 +64,7 @@ The backend is built using *Flask* for serving the machine learning models, whil
 
 4. The frontend will be accessible at http://localhost:3000/.
 
-### Credits
+## Credits
 -**Kaggle** for datasets.
 
 -**ChatGPT** for assistance with code, project structure, and documentation.
